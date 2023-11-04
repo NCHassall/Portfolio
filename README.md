@@ -8,14 +8,16 @@
 - 📲 Contact me on ...
 - ♀️ Pronouns are she/her
 
-## My projects:
+### My projects:
 
-## Guess The Song - Musical Quiz Game
-# Python
-# Software Engineering Nanodegree Final Project
+#### Guess The Song - Musical Quiz Game
+##### Python
+##### Software Engineering Nanodegree Final Project
 
-## Love Amélie - Shop Database
-# MySQL
+#### Love Amélie - Shop Database
+##### MySQL
+##### Introduction to Data and SQL
 
-## Spreadsheet Analysis - Shop
-# Python
+#### Spreadsheet Analysis - Shop
+##### Python
+##### Introduction to Python
