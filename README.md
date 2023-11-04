@@ -20,5 +20,10 @@
 #### Love Amélie - Shop Database
 ##### Introduction to Data and SQL
 
+##### Click here ⤵️
+
+<a href="https://github.com/NCHassall/Portfolio/tree/main/love-amelie-shop-database-mysql"> <img src="images/LoveAmelieComingSoon.png" width="300px"> </a>
+
+
 #### Spreadsheet Analysis - Shop
 ##### Introduction to Python
