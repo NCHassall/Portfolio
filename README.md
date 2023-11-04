@@ -11,6 +11,7 @@
 ### My projects:
 
 **Guess The Song - Musical Quiz Game**
+
 *Software Engineering Nanodegree Final Project*
 
 ##### Click here ⤵️
@@ -18,6 +19,7 @@
 <a href="https://github.com/NCHassall/Portfolio/tree/main/guess-the-song-musical-quiz-game-python"> <img src="images/GuessTheSongStart.png" width="300px"> </a>
 
 **Love Amélie - Shop Database**
+
 *Introduction to Data and SQL*
 
 ##### Click here ⤵️
@@ -26,6 +28,7 @@
 
 
 **Spreadsheet Analysis - Shop**
+
 Introduction to Python*
 
 ##### Click here ⤵️
