@@ -11,13 +11,12 @@
 ### My projects:
 
 #### Guess The Song - Musical Quiz Game
-##### Python
 ##### Software Engineering Nanodegree Final Project
 
+<a href=”https://github.com/NCHassall/Portfolio/guess-the-song-musical-quiz-game-python"> <img src=”images/GuessTheSongStart.png” width=”300px”> </a>
+
 #### Love Amélie - Shop Database
-##### MySQL
 ##### Introduction to Data and SQL
 
 #### Spreadsheet Analysis - Shop
-##### Python
 ##### Introduction to Python
