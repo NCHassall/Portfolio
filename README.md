@@ -32,6 +32,11 @@
 
 <a href="https://github.com/NCHassall/Portfolio/tree/main/love-amelie-shop-database-mysql"> <img src="images/LoveAmelieComingSoon.png" width="300px"> </a>
 
+- I engineered a relational, multi-table database interlinking products, manufacturers, orders, transactions, payments, customers, and reviews using primary and foreign keys. 
+- This resource is intended for my personal Etsy shop and website, and I visually depicted the interconnections through an EER diagram. 
+- Employing effective database management, I diligently normalised all tables. 
+- I harnessed various joins to craft logically connected table views, and my queries and subqueries featured stored functions to compute profits, procedures for dynamic product price updates, and customer insertions. Additionally, I implemented an event to monitor stock levels.
+
 
 **Spreadsheet Analysis - Shop**
 
@@ -40,3 +45,7 @@ Introduction to Python*
 ##### Click here ⤵️
 
 <a href="https://github.com/NCHassall/Portfolio/tree/main/spreadsheet-analysis-shop-python"> <img src="images/SalesByMonth.png" width="300px"> </a>
+
+- Leveraged Python to conduct comprehensive data analysis from a CSV file. 
+- I extracted, combined, and summarised monthly sales figures, allowing us to add new months and compare performance year-on-year. 
+- I also utilised matplotlib and numpy for data visualisations. 
