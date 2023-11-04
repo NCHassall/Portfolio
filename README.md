@@ -27,3 +27,7 @@
 
 #### Spreadsheet Analysis - Shop
 ##### Introduction to Python
+
+##### Click here ⤵️
+
+<a href="https://github.com/NCHassall/Portfolio/tree/main/spreadsheet-analysis-shop-python"> <img src="images/SalesByMonth.png" width="300px"> </a>
