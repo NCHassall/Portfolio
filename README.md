@@ -7,3 +7,15 @@
 - 💬 Ask me about ...
 - 📲 Contact me on ...
 - ♀️ Pronouns are she/her
+
+## My projects:
+
+## Guess The Song - Musical Quiz Game
+# Python
+# Software Engineering Nanodegree Final Project
+
+## Love Amélie - Shop Database
+# MySQL
+
+## Spreadsheet Analysis - Shop
+# Python
