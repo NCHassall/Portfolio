@@ -18,6 +18,12 @@
             
 <a href="https://github.com/NCHassall/Portfolio/tree/main/guess-the-song-musical-quiz-game-python"> <img src="images/GuessTheSongStart.png" width="300px"> </a>
 
+- We applied agile methodology and KANBAN task organisation to collaboratively design an engaging musical quiz game. 
+- It challenges players to identify popular songs, integrating with Spotify's API for up-to-date songs. - In each of the five rounds, players listen to a 10-second song clip, selecting the correct song title from four artist options for points. The game displays a highscore board upon completion. 
+- To ensure quality, we conducted User Acceptance Testing (UAT) and implemented unit tests for Python logic. 
+- Reliability was enhanced through integration, regression testing, and efficient code tracking on GitHub.
+- 🏆 Certification Achieved - Distinction (96%)
+
 **Love Amélie - Shop Database**
 
 *Introduction to Data and SQL*
