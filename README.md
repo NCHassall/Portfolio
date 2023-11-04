@@ -10,24 +10,24 @@
 
 ### My projects:
 
-#### Guess The Song - Musical Quiz Game
-##### Software Engineering Nanodegree Final Project
+    **Guess The Song - Musical Quiz Game**
+        *Software Engineering Nanodegree Final Project*
 
-##### Click here ⤵️
-
+            ##### Click here ⤵️
+            
 <a href="https://github.com/NCHassall/Portfolio/tree/main/guess-the-song-musical-quiz-game-python"> <img src="images/GuessTheSongStart.png" width="300px"> </a>
 
-#### Love Amélie - Shop Database
-##### Introduction to Data and SQL
+    **Love Amélie - Shop Database**
+        *Introduction to Data and SQL*
 
-##### Click here ⤵️
+            ##### Click here ⤵️
 
 <a href="https://github.com/NCHassall/Portfolio/tree/main/love-amelie-shop-database-mysql"> <img src="images/LoveAmelieComingSoon.png" width="300px"> </a>
 
 
-#### Spreadsheet Analysis - Shop
-##### Introduction to Python
+    **Spreadsheet Analysis - Shop**
+        Introduction to Python*
 
-##### Click here ⤵️
+            ##### Click here ⤵️
 
 <a href="https://github.com/NCHassall/Portfolio/tree/main/spreadsheet-analysis-shop-python"> <img src="images/SalesByMonth.png" width="300px"> </a>
