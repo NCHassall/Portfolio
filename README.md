@@ -1,20 +1,21 @@
-### Hey! Welcome to my portfolio 👋
+## Hey! Welcome to my portfolio 👋
 
-- 🖥️ I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 🤝 I'm looking to collaborate on ...
-- ✨ I'm looking for help with ...
-- 💬 Ask me about ...
-- 📲 Contact me on ...
+- 🖥️ I'm currently working on my personal brand 
+- 🌱 I'm currently learning CS50, Data Structures and Algorithms for Python
+- 📚 I'm currently reading Algorithms by Grokking
+- 🤝 I'm looking to collaborate on any full-stack project
+- ✨ I'm looking for help with landing my first job in Tech as a career switcher
+- 💬 Ask me about my family and my previous career
+- 📲 Contact me on nataliechassall@gmail.com
 - ♀️ Pronouns are she/her
 
-### My projects:
+## My projects:
 
-#### **Guess The Song - Musical Quiz Game**
+### **Guess The Song - Musical Quiz Game**
 
-##### *Software Engineering Nanodegree Final Project*
+#### *Software Engineering Nanodegree Final Project*
 
-##### Click here ⤵️
+#### Click here ⤵️
             
 <a href="https://github.com/NCHassall/Portfolio/tree/main/guess-the-song-musical-quiz-game-python"> <img src="images/GuessTheSongStart.png" width="300px"> </a>
 
@@ -24,11 +25,11 @@
  - Reliability was enhanced through integration, regression testing, and efficient code tracking on GitHub.
  - 🏆 Certification Achieved - Distinction (96%)
 
-#### **Love Amélie - Shop Database**
+### **Love Amélie - Shop Database**
 
-##### *Introduction to Data and SQL*
+#### *Introduction to Data and SQL*
 
-##### Click here ⤵️
+#### Click here ⤵️
 
 <a href="https://github.com/NCHassall/Portfolio/tree/main/love-amelie-shop-database-mysql"> <img src="images/LoveAmelieComingSoon.png" width="300px"> </a>
 
@@ -38,11 +39,11 @@
  - I harnessed various joins to craft logically connected table views, and my queries and subqueries featured stored functions to compute profits, procedures for dynamic product price updates, and customer insertions. Additionally, I implemented an event to monitor stock levels.
 
 
-**Spreadsheet Analysis - Shop**
+### **Spreadsheet Analysis - Shop**
 
-Introduction to Python*
+#### *Introduction to Python*
 
-##### Click here ⤵️
+#### Click here ⤵️
 
 <a href="https://github.com/NCHassall/Portfolio/tree/main/spreadsheet-analysis-shop-python"> <img src="images/SalesByMonth.png" width="300px"> </a>
 
